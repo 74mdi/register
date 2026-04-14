@@ -1,0 +1,11 @@
+{
+  "description": "Koko's personal website/portfolio",
+  "repo": "https://github.com/7amdi/S",
+  "owner": {
+    "username": "74mdi",
+    "email": "7amdi@tuta.io"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
